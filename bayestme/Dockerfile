@@ -1,0 +1,1 @@
+FROM jeffquinnmsk/bayestme:latest
